@@ -14,7 +14,7 @@
 
 - 👨‍💻 Working at [Casa del Futuro](https://www.instagram.com/casadelfuturo.godoycruz/) and [Conectar Lab Mendoza](https://www.instagram.com/conectarlabmendoza/)
 - 📚 I study in [UM](https://um.edu.ar/) *Technician in Video Game Development*
-- 💙 I am from Mendoza, Argentina
+- 💙 I am from Argentina
 
 **programs**
 <div style="display: flex">
